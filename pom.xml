@@ -24,7 +24,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>org.Hugo.Dein.Main</mainClass>
+                            <mainClass>joel.dein.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
